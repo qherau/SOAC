@@ -1,0 +1,6 @@
+@article{herau2023soac,
+  title={SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields},
+  author={Herau, Quentin and Piasco, Nathan and Bennehar, Moussab and Rold{\~a}o, Luis and Tsishkou, Dzmitry and Migniot, Cyrille and Vasseur, Pascal and Demonceaux, C{\'e}dric},
+  journal={arXiv preprint arXiv:2311.15803},
+  year={2023}
+}
