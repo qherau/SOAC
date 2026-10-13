@@ -1,0 +1,80 @@
+[
+  {
+    "project": "SOAC",
+    "file": "resources/paper-results/figure-9-1.png",
+    "paper": "https://arxiv.org/html/2311.15803v3",
+    "figure": 9,
+    "panel": 1,
+    "source_url": "https://arxiv.org/html/2311.15803v3/figures/quantitative_kitti/gt_front_box.png",
+    "sha256": "98d7bc6ac1f24842a25d8000c72fcf85e97e727fb43ec46947c0a1cac36c6201",
+    "bytes": 1023397,
+    "width": 1408,
+    "height": 376,
+    "transformed": false
+  },
+  {
+    "project": "SOAC",
+    "file": "resources/paper-results/figure-9-2.png",
+    "paper": "https://arxiv.org/html/2311.15803v3",
+    "figure": 9,
+    "panel": 2,
+    "source_url": "https://arxiv.org/html/2311.15803v3/figures/quantitative_kitti/gt_zoom.png",
+    "sha256": "22754afa3bfcd83fd9bc7dcab774cb75fb977f739cb746a23870b61b634b6dae",
+    "bytes": 79862,
+    "width": 193,
+    "height": 171,
+    "transformed": false
+  },
+  {
+    "project": "SOAC",
+    "file": "resources/paper-results/figure-9-3.png",
+    "paper": "https://arxiv.org/html/2311.15803v3",
+    "figure": 9,
+    "panel": 3,
+    "source_url": "https://arxiv.org/html/2311.15803v3/figures/quantitative_kitti/lccnet_front_box.png",
+    "sha256": "d3fd1e91aadb8c2d466a4e11d93981490c11e5a56ac15296b2abede59e1f559c",
+    "bytes": 1030590,
+    "width": 1408,
+    "height": 376,
+    "transformed": false
+  },
+  {
+    "project": "SOAC",
+    "file": "resources/paper-results/figure-9-4.png",
+    "paper": "https://arxiv.org/html/2311.15803v3",
+    "figure": 9,
+    "panel": 4,
+    "source_url": "https://arxiv.org/html/2311.15803v3/figures/quantitative_kitti/lccnet_zoom.png",
+    "sha256": "a3530fbcd096c170f56f831f2411d2835bbe21af2d735402fcc7c79b4c590d6d",
+    "bytes": 80134,
+    "width": 193,
+    "height": 171,
+    "transformed": false
+  },
+  {
+    "project": "SOAC",
+    "file": "resources/paper-results/figure-9-5.png",
+    "paper": "https://arxiv.org/html/2311.15803v3",
+    "figure": 9,
+    "panel": 5,
+    "source_url": "https://arxiv.org/html/2311.15803v3/figures/quantitative_kitti/soac_front_box.png",
+    "sha256": "384179053ebb704fb529c2b2a828498e0caaa6b550483e37c3a94c770ce0f825",
+    "bytes": 1023993,
+    "width": 1408,
+    "height": 376,
+    "transformed": false
+  },
+  {
+    "project": "SOAC",
+    "file": "resources/paper-results/figure-9-6.png",
+    "paper": "https://arxiv.org/html/2311.15803v3",
+    "figure": 9,
+    "panel": 6,
+    "source_url": "https://arxiv.org/html/2311.15803v3/figures/quantitative_kitti/soac_zoom.png",
+    "sha256": "67f98dcccef248288c38e2037192b42d6b68b608096e43b1783b69ec36c720b7",
+    "bytes": 79398,
+    "width": 193,
+    "height": 171,
+    "transformed": false
+  }
+]
